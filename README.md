@@ -1,1 +1,1 @@
-# OpenSourceDay
+# OpenSourceDayWceWLUG
